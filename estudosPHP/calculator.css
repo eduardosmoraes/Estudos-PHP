@@ -1,0 +1,23 @@
+p{
+    
+    text-decoration-line: none;
+    color: black;
+    
+    
+
+}
+
+button{
+    border-radius: 5px;
+}
+
+input{
+    padding: 10px;
+}
+
+html {
+    text-align: center;
+    background-color:#808080 ;
+    margin-top: auto;
+}
+

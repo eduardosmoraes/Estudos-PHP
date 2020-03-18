@@ -1,0 +1,21 @@
+h1 .text1{
+    text-align: center;
+    height: 100px;
+    margin-top: 500px;
+    
+}
+
+div{
+    background-color: #ffff88;
+    width: 1300px;
+    height: 1300px;
+    
+}
+
+
+.text1 {
+    margin: auto;
+    width: 50%;
+    border: 20px solid green;
+    padding: 10px;
+  }
